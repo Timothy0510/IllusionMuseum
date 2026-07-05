@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "illusionmuseum", "..\..\..\..\..\Downloads\IllusionMuseum-master\IllusionMuseum-master\illusionmuseum.csproj", "{FD2A017C-DDD8-7417-1555-1CFDF7571554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2A017C-DDD8-7417-1555-1CFDF7571554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2A017C-DDD8-7417-1555-1CFDF7571554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2A017C-DDD8-7417-1555-1CFDF7571554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2A017C-DDD8-7417-1555-1CFDF7571554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79904A29-6ECE-4979-8711-C5F6DB6E50BB}
+	EndGlobalSection
+EndGlobal
